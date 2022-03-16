@@ -4,4 +4,4 @@ MEDLINE is a bibliographic database of life sciences and biomedical information.
 
 In this notebook I mined more than 300 thousand articles with COVID-19 related keywords and plotted thier distribution. All in Python :)
 
-View code on [NBviewer]()
+View code on [NBviewer](https://nbviewer.org/github/vineetver/Mining-MEDLINE/blob/main/medline.ipynb)
