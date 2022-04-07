@@ -2,8 +2,25 @@
 
 MEDLINE is a bibliographic database of life sciences and biomedical information. The United States National Library of Medicine (NLM) at the National Institutes of Health maintains the database as part of the Entrez information retrieval system. MEDLINE is the primary database for biomedical and life sciences journal articles. It contains over 27 million citations from more than 5,600 scientific journals. 
 
-In this notebook I mined more than 300 thousand articles with COVID-19 related keywords and plotted thier distribution. All in Python :)
+### About the project
 
-View code on [NBviewer](https://nbviewer.org/github/vineetver/Mining-MEDLINE/blob/main/medline.ipynb)
+In this notebook I mined more than 300 thousand articles with COVID-19 related keywords using Python. Analyized and plotted thier distribution.
 
-Find more like this on [Goodbyeweekend.io](https://goodbyeweekend.io)
+### Requirements
+
+```
+pandas,
+pymed, 
+numpy, 
+re, 
+matplotlib,
+seaborn
+```
+
+### View the code
+
+[NBviewer](https://nbviewer.org/github/vineetver/Mining-MEDLINE/blob/main/medline.ipynb)
+
+### Find more like this
+
+[Goodbyeweekend.io](https://goodbyeweekend.io)
